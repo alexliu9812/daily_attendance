@@ -15,3 +15,5 @@ password.clear()
 password.send_keys("密码")#密码
 password.click()
 ```
+## 3. 利用.pyw
+如果你是window系统，可以将.py文件的后缀改为.pyw。.pyw可以看做一个.exe文件，这样你可以直接点击.pyw文件来运行打卡程序。
